@@ -1,0 +1,537 @@
+amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
+Audited Actual,AUDA,2015,year,2015,,heading,1,OPERATING REVENUE,0100,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,2,Property Rates,0200,Buffalo City,BUF,817716642
+Audited Actual,AUDA,2015,year,2015,,line_item,3,Property Rates - Penalties And Collection Charges,0300,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,4,Service Charges,0400,Buffalo City,BUF,2424752656
+Audited Actual,AUDA,2015,year,2015,,line_item,5,Rent Of Facilities And Equipment,0700,Buffalo City,BUF,17430173
+Audited Actual,AUDA,2015,year,2015,,line_item,6,Interest Earned - External Investments,0800,Buffalo City,BUF,124222300
+Audited Actual,AUDA,2015,year,2015,,line_item,7,Interest Earned - Outstanding Debtors,1000,Buffalo City,BUF,34998995
+Audited Actual,AUDA,2015,year,2015,,line_item,8,Dividends Received,1100,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,9,Fines,1300,Buffalo City,BUF,5499649
+Audited Actual,AUDA,2015,year,2015,,line_item,10,Licenses and Permits,1400,Buffalo City,BUF,14034279
+Audited Actual,AUDA,2015,year,2015,,line_item,11,Agency Services,1500,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,12,Transfers Recognised - Operating,1600,Buffalo City,BUF,948513477
+Audited Actual,AUDA,2015,year,2015,,line_item,13,Transfers Recognised - Capital,1610,Buffalo City,BUF,615492272
+Audited Actual,AUDA,2015,year,2015,,line_item,14,Other Revenue,1700,Buffalo City,BUF,615879414
+Audited Actual,AUDA,2015,year,2015,,line_item,15,"Gain On Disposal Of Property, Plant & Equipment",1800,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,"sum(0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1600, 1610, 1700, 1800)",subtotal,16,Total Operating Revenue Generated,1900,Buffalo City,BUF,5618539857
+Audited Actual,AUDA,2015,year,2015,,line_item,17,Less Revenue Foregone,2000,Buffalo City,BUF,23197797
+Audited Actual,AUDA,2015,year,2015,1900 - 2000 or 1900 + 2000 depending on the sign on 2000 such that 2100 < 1900,subtotal,18,Total Direct Operating Revenue,2100,Buffalo City,BUF,5595342060
+Audited Actual,AUDA,2015,year,2015,,heading,19,INTERNAL TRANSFERS – (must net out with corresp. items under,2200,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,20,Interest Received - Internal Loans,2300,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,21,Internal Recoveries (Activity Based Costing Etc),2500,Buffalo City,BUF,70639316
+Audited Actual,AUDA,2015,year,2015,,line_item,22,Dividends Received - Internal (From Municipal Entities),2600,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,"sum(2300, 2500, 2600)",subtotal,23,Total Indirect Operating Revenue,2700,Buffalo City,BUF,70639316
+Audited Actual,AUDA,2015,year,2015,"sum(2100, 2700)",subtotal,24,Total Operating Revenue,2800,Buffalo City,BUF,5665981376
+Audited Actual,AUDA,2015,year,2015,,heading,25,OPERATING EXPENDITURE,2900,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,26,Employee Related Costs - Wages & Salaries,3000,Buffalo City,BUF,1038913630
+Audited Actual,AUDA,2015,year,2015,,line_item,27,Employee Related Costs - Social Contributions,3100,Buffalo City,BUF,194391768
+Audited Actual,AUDA,2015,year,2015,,line_item,28,Less Employee Costs Capitalised,3200,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,29,Less Employee Costs Allocated To Other Operating Items,3300,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,30,Remuneration Of Councillors,3400,Buffalo City,BUF,48359637
+Audited Actual,AUDA,2015,year,2015,,line_item,31,Debt Impairment,3500,Buffalo City,BUF,365110172
+Audited Actual,AUDA,2015,year,2015,,line_item,32,Collection Costs,3600,Buffalo City,BUF,27269174
+Audited Actual,AUDA,2015,year,2015,,line_item,33,Depreciation and Asset Impairment,3700,Buffalo City,BUF,685335710
+Audited Actual,AUDA,2015,year,2015,,line_item,34,Interest Expense - External Borrowings,3900,Buffalo City,BUF,60674265
+Audited Actual,AUDA,2015,year,2015,,line_item,35,Redemption Payments - External Borrowings (Gamap To Remove),4000,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,36,Bulk Purchases,4100,Buffalo City,BUF,1213641773
+Audited Actual,AUDA,2015,year,2015,,line_item,37,Other Materials,4110,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,38,Contracted Services,4200,Buffalo City,BUF,14606853
+Audited Actual,AUDA,2015,year,2015,,line_item,39,Grants and Subsidies,4300,Buffalo City,BUF,234150609
+Audited Actual,AUDA,2015,year,2015,,line_item,40,Other Expenditure,4400,Buffalo City,BUF,1310611071
+Audited Actual,AUDA,2015,year,2015,,line_item,41,"Loss On Disposal Of Property, Plant & Equipment",4500,Buffalo City,BUF,32772122
+Audited Actual,AUDA,2015,year,2015,,line_item,42,Contributions To/(From) Provisions,4550,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,"sum(3000, 3100, 3200, 3300, 3400, 3500, 3600, 3700, 3900, 4000, 4100, 4110, 4200, 4300, 4400, 4500, 4550)",subtotal,43,Total Direct Operating Expenditure,4600,Buffalo City,BUF,5225836784
+Audited Actual,AUDA,2015,year,2015,,heading,44,INTERNAL TRANSFERS - (must net out with corresp. items under,4700,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,45,Interest - Internal Borrowings,4800,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,46,Internal Charges (Activity Based Costing Etc),5000,Buffalo City,BUF,70639316
+Audited Actual,AUDA,2015,year,2015,,line_item,47,Contributed Assets,5010,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,"sum(4800, 5000, 5010)",subtotal,48,Total Indirect Operating Expenditure,5100,Buffalo City,BUF,70639316
+Audited Actual,AUDA,2015,year,2015,"sum(4600, 5100)",subtotal,49,Total Operating Expenditure,5200,Buffalo City,BUF,5296476100
+Audited Actual,AUDA,2015,year,2015,,heading,50,SURPLUS,5300,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,2800 - 5200 or 2800 + 5200 depending on the sign on 5200 such that 5400 < 2800,subtotal,51,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,5400,Buffalo City,BUF,369505276
+Audited Actual,AUDA,2015,year,2015,,line_item,52,Taxation,5500,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,5400 - 5500 or 5400 + 5500 depending on the sign on 5500 such that 5600 < 5400,subtotal,53,Operating Surplus / (Deficit) - After Tax,5600,Buffalo City,BUF,369505276
+Audited Actual,AUDA,2015,year,2015,,line_item,54,Cross Subsidisation,5800,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,55,Plus Interests In Entities Not Wholly Owned,6600,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,"sum(5600, 5800, 6600)",subtotal,56,"Surplus / (Deficit) After Tax, Cross Subsidies & Share Of As",5900,Buffalo City,BUF,369505276
+Audited Actual,AUDA,2015,year,2015,,heading,57,OTHER ADJUSTMENTS AND TRANSFERS,6200,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,58,Dividends Paid (Municipal Entities Only),5700,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,59,Asset Financing Reserve (Afr),6210,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,60,Housing Development Fund,6220,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,61,Depreciation Reserve Ex Afr,6230,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,62,Depreciation Reserve Ex Govt Grants,6240,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,63,Depreciation Reserve Ex Donations And Contributions,6250,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,64,Self-Insurance Reserve,6260,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,65,Revaluation Reserve,6270,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,,line_item,66,Other,6280,Buffalo City,BUF,0
+Audited Actual,AUDA,2015,year,2015,"sum(5900, 5700, 6210, 6220, 6230, 6240, 6250, 6260, 6270, 6280)",subtotal,67,Change To Unappropriated Surplus / (Accumulated Deficit),6700,Buffalo City,BUF,369505276
+Audited Actual,AUDA,2015,year,2015,,heading,1,OPERATING REVENUE,0100,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,2,Property Rates,0200,City of Cape Town,CPT,7173537457
+Audited Actual,AUDA,2015,year,2015,,line_item,3,Property Rates - Penalties And Collection Charges,0300,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,4,Service Charges,0400,City of Cape Town,CPT,15374111773
+Audited Actual,AUDA,2015,year,2015,,line_item,5,Rent Of Facilities And Equipment,0700,City of Cape Town,CPT,369120867
+Audited Actual,AUDA,2015,year,2015,,line_item,6,Interest Earned - External Investments,0800,City of Cape Town,CPT,575782825
+Audited Actual,AUDA,2015,year,2015,,line_item,7,Interest Earned - Outstanding Debtors,1000,City of Cape Town,CPT,198229746
+Audited Actual,AUDA,2015,year,2015,,line_item,8,Dividends Received,1100,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,9,Fines,1300,City of Cape Town,CPT,988016782
+Audited Actual,AUDA,2015,year,2015,,line_item,10,Licenses and Permits,1400,City of Cape Town,CPT,43110568
+Audited Actual,AUDA,2015,year,2015,,line_item,11,Agency Services,1500,City of Cape Town,CPT,168519195
+Audited Actual,AUDA,2015,year,2015,,line_item,12,Transfers Recognised - Operating,1600,City of Cape Town,CPT,3264270303
+Audited Actual,AUDA,2015,year,2015,,line_item,13,Transfers Recognised - Capital,1610,City of Cape Town,CPT,2423178658
+Audited Actual,AUDA,2015,year,2015,,line_item,14,Other Revenue,1700,City of Cape Town,CPT,2446106564
+Audited Actual,AUDA,2015,year,2015,,line_item,15,"Gain On Disposal Of Property, Plant & Equipment",1800,City of Cape Town,CPT,87867581
+Audited Actual,AUDA,2015,year,2015,"sum(0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1600, 1610, 1700, 1800)",subtotal,16,Total Operating Revenue Generated,1900,City of Cape Town,CPT,33111852319
+Audited Actual,AUDA,2015,year,2015,,line_item,17,Less Revenue Foregone,2000,City of Cape Town,CPT,1159646733
+Audited Actual,AUDA,2015,year,2015,1900 - 2000 or 1900 + 2000 depending on the sign on 2000 such that 2100 < 1900,subtotal,18,Total Direct Operating Revenue,2100,City of Cape Town,CPT,31952205586
+Audited Actual,AUDA,2015,year,2015,,heading,19,INTERNAL TRANSFERS – (must net out with corresp. items under,2200,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,20,Interest Received - Internal Loans,2300,City of Cape Town,CPT,1047248093
+Audited Actual,AUDA,2015,year,2015,,line_item,21,Internal Recoveries (Activity Based Costing Etc),2500,City of Cape Town,CPT,9613804529
+Audited Actual,AUDA,2015,year,2015,,line_item,22,Dividends Received - Internal (From Municipal Entities),2600,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,"sum(2300, 2500, 2600)",subtotal,23,Total Indirect Operating Revenue,2700,City of Cape Town,CPT,10661052622
+Audited Actual,AUDA,2015,year,2015,"sum(2100, 2700)",subtotal,24,Total Operating Revenue,2800,City of Cape Town,CPT,42613258208
+Audited Actual,AUDA,2015,year,2015,,heading,25,OPERATING EXPENDITURE,2900,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,26,Employee Related Costs - Wages & Salaries,3000,City of Cape Town,CPT,6676143197
+Audited Actual,AUDA,2015,year,2015,,line_item,27,Employee Related Costs - Social Contributions,3100,City of Cape Town,CPT,1525835379
+Audited Actual,AUDA,2015,year,2015,,line_item,28,Less Employee Costs Capitalised,3200,City of Cape Town,CPT,-24784077
+Audited Actual,AUDA,2015,year,2015,,line_item,29,Less Employee Costs Allocated To Other Operating Items,3300,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,30,Remuneration Of Councillors,3400,City of Cape Town,CPT,128767241
+Audited Actual,AUDA,2015,year,2015,,line_item,31,Debt Impairment,3500,City of Cape Town,CPT,1523797622
+Audited Actual,AUDA,2015,year,2015,,line_item,32,Collection Costs,3600,City of Cape Town,CPT,172518450
+Audited Actual,AUDA,2015,year,2015,,line_item,33,Depreciation and Asset Impairment,3700,City of Cape Town,CPT,1941951000
+Audited Actual,AUDA,2015,year,2015,,line_item,34,Interest Expense - External Borrowings,3900,City of Cape Town,CPT,781261715
+Audited Actual,AUDA,2015,year,2015,,line_item,35,Redemption Payments - External Borrowings (Gamap To Remove),4000,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,36,Bulk Purchases,4100,City of Cape Town,CPT,7108843213
+Audited Actual,AUDA,2015,year,2015,,line_item,37,Other Materials,4110,City of Cape Town,CPT,347128121
+Audited Actual,AUDA,2015,year,2015,,line_item,38,Contracted Services,4200,City of Cape Town,CPT,3684195366
+Audited Actual,AUDA,2015,year,2015,,line_item,39,Grants and Subsidies,4300,City of Cape Town,CPT,96660776
+Audited Actual,AUDA,2015,year,2015,,line_item,40,Other Expenditure,4400,City of Cape Town,CPT,3540212739
+Audited Actual,AUDA,2015,year,2015,,line_item,41,"Loss On Disposal Of Property, Plant & Equipment",4500,City of Cape Town,CPT,3234554
+Audited Actual,AUDA,2015,year,2015,,line_item,42,Contributions To/(From) Provisions,4550,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,"sum(3000, 3100, 3200, 3300, 3400, 3500, 3600, 3700, 3900, 4000, 4100, 4110, 4200, 4300, 4400, 4500, 4550)",subtotal,43,Total Direct Operating Expenditure,4600,City of Cape Town,CPT,27505765296
+Audited Actual,AUDA,2015,year,2015,,heading,44,INTERNAL TRANSFERS - (must net out with corresp. items under,4700,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,45,Interest - Internal Borrowings,4800,City of Cape Town,CPT,1047248095
+Audited Actual,AUDA,2015,year,2015,,line_item,46,Internal Charges (Activity Based Costing Etc),5000,City of Cape Town,CPT,9613873235
+Audited Actual,AUDA,2015,year,2015,,line_item,47,Contributed Assets,5010,City of Cape Town,CPT,4953000
+Audited Actual,AUDA,2015,year,2015,"sum(4800, 5000, 5010)",subtotal,48,Total Indirect Operating Expenditure,5100,City of Cape Town,CPT,10666074330
+Audited Actual,AUDA,2015,year,2015,"sum(4600, 5100)",subtotal,49,Total Operating Expenditure,5200,City of Cape Town,CPT,38171839626
+Audited Actual,AUDA,2015,year,2015,,heading,50,SURPLUS,5300,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,2800 - 5200 or 2800 + 5200 depending on the sign on 5200 such that 5400 < 2800,subtotal,51,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,5400,City of Cape Town,CPT,4441418582
+Audited Actual,AUDA,2015,year,2015,,line_item,52,Taxation,5500,City of Cape Town,CPT,18576297
+Audited Actual,AUDA,2015,year,2015,5400 - 5500 or 5400 + 5500 depending on the sign on 5500 such that 5600 < 5400,subtotal,53,Operating Surplus / (Deficit) - After Tax,5600,City of Cape Town,CPT,4422842285
+Audited Actual,AUDA,2015,year,2015,,line_item,54,Cross Subsidisation,5800,City of Cape Town,CPT,-1
+Audited Actual,AUDA,2015,year,2015,,line_item,55,Plus Interests In Entities Not Wholly Owned,6600,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,"sum(5600, 5800, 6600)",subtotal,56,"Surplus / (Deficit) After Tax, Cross Subsidies & Share Of As",5900,City of Cape Town,CPT,4422842284
+Audited Actual,AUDA,2015,year,2015,,heading,57,OTHER ADJUSTMENTS AND TRANSFERS,6200,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,58,Dividends Paid (Municipal Entities Only),5700,City of Cape Town,CPT,13847000
+Audited Actual,AUDA,2015,year,2015,,line_item,59,Asset Financing Reserve (Afr),6210,City of Cape Town,CPT,-608594642
+Audited Actual,AUDA,2015,year,2015,,line_item,60,Housing Development Fund,6220,City of Cape Town,CPT,3502367
+Audited Actual,AUDA,2015,year,2015,,line_item,61,Depreciation Reserve Ex Afr,6230,City of Cape Town,CPT,95125522
+Audited Actual,AUDA,2015,year,2015,,line_item,62,Depreciation Reserve Ex Govt Grants,6240,City of Cape Town,CPT,-1612418449
+Audited Actual,AUDA,2015,year,2015,,line_item,63,Depreciation Reserve Ex Donations And Contributions,6250,City of Cape Town,CPT,-25452405
+Audited Actual,AUDA,2015,year,2015,,line_item,64,Self-Insurance Reserve,6260,City of Cape Town,CPT,34743997
+Audited Actual,AUDA,2015,year,2015,,line_item,65,Revaluation Reserve,6270,City of Cape Town,CPT,0
+Audited Actual,AUDA,2015,year,2015,,line_item,66,Other,6280,City of Cape Town,CPT,-13847000
+Audited Actual,AUDA,2015,year,2015,"sum(5900, 5700, 6210, 6220, 6230, 6240, 6250, 6260, 6270, 6280)",subtotal,67,Change To Unappropriated Surplus / (Accumulated Deficit),6700,City of Cape Town,CPT,2309748674
+Audited Actual,AUDA,2015,year,2015,,heading,1,OPERATING REVENUE,0100,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,2,Property Rates,0200,Ekurhuleni,EKU,3693387445
+Audited Actual,AUDA,2015,year,2015,,line_item,3,Property Rates - Penalties And Collection Charges,0300,Ekurhuleni,EKU,88405293
+Audited Actual,AUDA,2015,year,2015,,line_item,4,Service Charges,0400,Ekurhuleni,EKU,16304459302
+Audited Actual,AUDA,2015,year,2015,,line_item,5,Rent Of Facilities And Equipment,0700,Ekurhuleni,EKU,62454731
+Audited Actual,AUDA,2015,year,2015,,line_item,6,Interest Earned - External Investments,0800,Ekurhuleni,EKU,519167379
+Audited Actual,AUDA,2015,year,2015,,line_item,7,Interest Earned - Outstanding Debtors,1000,Ekurhuleni,EKU,292739719
+Audited Actual,AUDA,2015,year,2015,,line_item,8,Dividends Received,1100,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,9,Fines,1300,Ekurhuleni,EKU,224949292
+Audited Actual,AUDA,2015,year,2015,,line_item,10,Licenses and Permits,1400,Ekurhuleni,EKU,53622190
+Audited Actual,AUDA,2015,year,2015,,line_item,11,Agency Services,1500,Ekurhuleni,EKU,257982770
+Audited Actual,AUDA,2015,year,2015,,line_item,12,Transfers Recognised - Operating,1600,Ekurhuleni,EKU,3882315074
+Audited Actual,AUDA,2015,year,2015,,line_item,13,Transfers Recognised - Capital,1610,Ekurhuleni,EKU,1877867916
+Audited Actual,AUDA,2015,year,2015,,line_item,14,Other Revenue,1700,Ekurhuleni,EKU,193546146
+Audited Actual,AUDA,2015,year,2015,,line_item,15,"Gain On Disposal Of Property, Plant & Equipment",1800,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,"sum(0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1600, 1610, 1700, 1800)",subtotal,16,Total Operating Revenue Generated,1900,Ekurhuleni,EKU,27450897257
+Audited Actual,AUDA,2015,year,2015,,line_item,17,Less Revenue Foregone,2000,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,1900 - 2000 or 1900 + 2000 depending on the sign on 2000 such that 2100 < 1900,subtotal,18,Total Direct Operating Revenue,2100,Ekurhuleni,EKU,27450897257
+Audited Actual,AUDA,2015,year,2015,,heading,19,INTERNAL TRANSFERS – (must net out with corresp. items under,2200,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,20,Interest Received - Internal Loans,2300,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,21,Internal Recoveries (Activity Based Costing Etc),2500,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,22,Dividends Received - Internal (From Municipal Entities),2600,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,"sum(2300, 2500, 2600)",subtotal,23,Total Indirect Operating Revenue,2700,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,"sum(2100, 2700)",subtotal,24,Total Operating Revenue,2800,Ekurhuleni,EKU,27450897257
+Audited Actual,AUDA,2015,year,2015,,heading,25,OPERATING EXPENDITURE,2900,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,26,Employee Related Costs - Wages & Salaries,3000,Ekurhuleni,EKU,4509200052
+Audited Actual,AUDA,2015,year,2015,,line_item,27,Employee Related Costs - Social Contributions,3100,Ekurhuleni,EKU,1147336555
+Audited Actual,AUDA,2015,year,2015,,line_item,28,Less Employee Costs Capitalised,3200,Ekurhuleni,EKU,-69186120
+Audited Actual,AUDA,2015,year,2015,,line_item,29,Less Employee Costs Allocated To Other Operating Items,3300,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,30,Remuneration Of Councillors,3400,Ekurhuleni,EKU,99977319
+Audited Actual,AUDA,2015,year,2015,,line_item,31,Debt Impairment,3500,Ekurhuleni,EKU,2211425099
+Audited Actual,AUDA,2015,year,2015,,line_item,32,Collection Costs,3600,Ekurhuleni,EKU,148107160
+Audited Actual,AUDA,2015,year,2015,,line_item,33,Depreciation and Asset Impairment,3700,Ekurhuleni,EKU,2057380554
+Audited Actual,AUDA,2015,year,2015,,line_item,34,Interest Expense - External Borrowings,3900,Ekurhuleni,EKU,571556210
+Audited Actual,AUDA,2015,year,2015,,line_item,35,Redemption Payments - External Borrowings (Gamap To Remove),4000,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,36,Bulk Purchases,4100,Ekurhuleni,EKU,10218507648
+Audited Actual,AUDA,2015,year,2015,,line_item,37,Other Materials,4110,Ekurhuleni,EKU,1328381212
+Audited Actual,AUDA,2015,year,2015,,line_item,38,Contracted Services,4200,Ekurhuleni,EKU,714568088
+Audited Actual,AUDA,2015,year,2015,,line_item,39,Grants and Subsidies,4300,Ekurhuleni,EKU,1167558759
+Audited Actual,AUDA,2015,year,2015,,line_item,40,Other Expenditure,4400,Ekurhuleni,EKU,1280424975
+Audited Actual,AUDA,2015,year,2015,,line_item,41,"Loss On Disposal Of Property, Plant & Equipment",4500,Ekurhuleni,EKU,7838173
+Audited Actual,AUDA,2015,year,2015,,line_item,42,Contributions To/(From) Provisions,4550,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,"sum(3000, 3100, 3200, 3300, 3400, 3500, 3600, 3700, 3900, 4000, 4100, 4110, 4200, 4300, 4400, 4500, 4550)",subtotal,43,Total Direct Operating Expenditure,4600,Ekurhuleni,EKU,25393075684
+Audited Actual,AUDA,2015,year,2015,,heading,44,INTERNAL TRANSFERS - (must net out with corresp. items under,4700,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,45,Interest - Internal Borrowings,4800,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,46,Internal Charges (Activity Based Costing Etc),5000,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,47,Contributed Assets,5010,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,"sum(4800, 5000, 5010)",subtotal,48,Total Indirect Operating Expenditure,5100,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,"sum(4600, 5100)",subtotal,49,Total Operating Expenditure,5200,Ekurhuleni,EKU,25393075684
+Audited Actual,AUDA,2015,year,2015,,heading,50,SURPLUS,5300,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,2800 - 5200 or 2800 + 5200 depending on the sign on 5200 such that 5400 < 2800,subtotal,51,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,5400,Ekurhuleni,EKU,2057821573
+Audited Actual,AUDA,2015,year,2015,,line_item,52,Taxation,5500,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,5400 - 5500 or 5400 + 5500 depending on the sign on 5500 such that 5600 < 5400,subtotal,53,Operating Surplus / (Deficit) - After Tax,5600,Ekurhuleni,EKU,2057821573
+Audited Actual,AUDA,2015,year,2015,,line_item,54,Cross Subsidisation,5800,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,55,Plus Interests In Entities Not Wholly Owned,6600,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,"sum(5600, 5800, 6600)",subtotal,56,"Surplus / (Deficit) After Tax, Cross Subsidies & Share Of As",5900,Ekurhuleni,EKU,2057821573
+Audited Actual,AUDA,2015,year,2015,,heading,57,OTHER ADJUSTMENTS AND TRANSFERS,6200,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,58,Dividends Paid (Municipal Entities Only),5700,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,59,Asset Financing Reserve (Afr),6210,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,60,Housing Development Fund,6220,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,61,Depreciation Reserve Ex Afr,6230,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,62,Depreciation Reserve Ex Govt Grants,6240,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,63,Depreciation Reserve Ex Donations And Contributions,6250,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,64,Self-Insurance Reserve,6260,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,65,Revaluation Reserve,6270,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,,line_item,66,Other,6280,Ekurhuleni,EKU,0
+Audited Actual,AUDA,2015,year,2015,"sum(5900, 5700, 6210, 6220, 6230, 6240, 6250, 6260, 6270, 6280)",subtotal,67,Change To Unappropriated Surplus / (Accumulated Deficit),6700,Ekurhuleni,EKU,2057821573
+Audited Actual,AUDA,2015,year,2015,,heading,1,OPERATING REVENUE,0100,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,2,Property Rates,0200,eThekwini,ETH,5747115000
+Audited Actual,AUDA,2015,year,2015,,line_item,3,Property Rates - Penalties And Collection Charges,0300,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,4,Service Charges,0400,eThekwini,ETH,14284475718
+Audited Actual,AUDA,2015,year,2015,,line_item,5,Rent Of Facilities And Equipment,0700,eThekwini,ETH,560625000
+Audited Actual,AUDA,2015,year,2015,,line_item,6,Interest Earned - External Investments,0800,eThekwini,ETH,380544000
+Audited Actual,AUDA,2015,year,2015,,line_item,7,Interest Earned - Outstanding Debtors,1000,eThekwini,ETH,337140850
+Audited Actual,AUDA,2015,year,2015,,line_item,8,Dividends Received,1100,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,9,Fines,1300,eThekwini,ETH,262262299
+Audited Actual,AUDA,2015,year,2015,,line_item,10,Licenses and Permits,1400,eThekwini,ETH,30228358
+Audited Actual,AUDA,2015,year,2015,,line_item,11,Agency Services,1500,eThekwini,ETH,10232623
+Audited Actual,AUDA,2015,year,2015,,line_item,12,Transfers Recognised - Operating,1600,eThekwini,ETH,2657498900
+Audited Actual,AUDA,2015,year,2015,,line_item,13,Transfers Recognised - Capital,1610,eThekwini,ETH,2779110434
+Audited Actual,AUDA,2015,year,2015,,line_item,14,Other Revenue,1700,eThekwini,ETH,2553417000
+Audited Actual,AUDA,2015,year,2015,,line_item,15,"Gain On Disposal Of Property, Plant & Equipment",1800,eThekwini,ETH,49286000
+Audited Actual,AUDA,2015,year,2015,"sum(0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1600, 1610, 1700, 1800)",subtotal,16,Total Operating Revenue Generated,1900,eThekwini,ETH,29651936182
+Audited Actual,AUDA,2015,year,2015,,line_item,17,Less Revenue Foregone,2000,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,1900 - 2000 or 1900 + 2000 depending on the sign on 2000 such that 2100 < 1900,subtotal,18,Total Direct Operating Revenue,2100,eThekwini,ETH,29651936182
+Audited Actual,AUDA,2015,year,2015,,heading,19,INTERNAL TRANSFERS – (must net out with corresp. items under,2200,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,20,Interest Received - Internal Loans,2300,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,21,Internal Recoveries (Activity Based Costing Etc),2500,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,22,Dividends Received - Internal (From Municipal Entities),2600,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,"sum(2300, 2500, 2600)",subtotal,23,Total Indirect Operating Revenue,2700,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,"sum(2100, 2700)",subtotal,24,Total Operating Revenue,2800,eThekwini,ETH,29651936182
+Audited Actual,AUDA,2015,year,2015,,heading,25,OPERATING EXPENDITURE,2900,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,26,Employee Related Costs - Wages & Salaries,3000,eThekwini,ETH,7160124470
+Audited Actual,AUDA,2015,year,2015,,line_item,27,Employee Related Costs - Social Contributions,3100,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,28,Less Employee Costs Capitalised,3200,eThekwini,ETH,-2598470
+Audited Actual,AUDA,2015,year,2015,,line_item,29,Less Employee Costs Allocated To Other Operating Items,3300,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,30,Remuneration Of Councillors,3400,eThekwini,ETH,100795066
+Audited Actual,AUDA,2015,year,2015,,line_item,31,Debt Impairment,3500,eThekwini,ETH,2079360004
+Audited Actual,AUDA,2015,year,2015,,line_item,32,Collection Costs,3600,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,33,Depreciation and Asset Impairment,3700,eThekwini,ETH,1938879135
+Audited Actual,AUDA,2015,year,2015,,line_item,34,Interest Expense - External Borrowings,3900,eThekwini,ETH,950564919
+Audited Actual,AUDA,2015,year,2015,,line_item,35,Redemption Payments - External Borrowings (Gamap To Remove),4000,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,36,Bulk Purchases,4100,eThekwini,ETH,8378619330
+Audited Actual,AUDA,2015,year,2015,,line_item,37,Other Materials,4110,eThekwini,ETH,57568056
+Audited Actual,AUDA,2015,year,2015,,line_item,38,Contracted Services,4200,eThekwini,ETH,3775765299
+Audited Actual,AUDA,2015,year,2015,,line_item,39,Grants and Subsidies,4300,eThekwini,ETH,179772000
+Audited Actual,AUDA,2015,year,2015,,line_item,40,Other Expenditure,4400,eThekwini,ETH,2079345594
+Audited Actual,AUDA,2015,year,2015,,line_item,41,"Loss On Disposal Of Property, Plant & Equipment",4500,eThekwini,ETH,668000
+Audited Actual,AUDA,2015,year,2015,,line_item,42,Contributions To/(From) Provisions,4550,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,"sum(3000, 3100, 3200, 3300, 3400, 3500, 3600, 3700, 3900, 4000, 4100, 4110, 4200, 4300, 4400, 4500, 4550)",subtotal,43,Total Direct Operating Expenditure,4600,eThekwini,ETH,26698863403
+Audited Actual,AUDA,2015,year,2015,,heading,44,INTERNAL TRANSFERS - (must net out with corresp. items under,4700,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,45,Interest - Internal Borrowings,4800,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,46,Internal Charges (Activity Based Costing Etc),5000,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,47,Contributed Assets,5010,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,"sum(4800, 5000, 5010)",subtotal,48,Total Indirect Operating Expenditure,5100,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,"sum(4600, 5100)",subtotal,49,Total Operating Expenditure,5200,eThekwini,ETH,26698863403
+Audited Actual,AUDA,2015,year,2015,,heading,50,SURPLUS,5300,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,2800 - 5200 or 2800 + 5200 depending on the sign on 5200 such that 5400 < 2800,subtotal,51,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,5400,eThekwini,ETH,2953072779
+Audited Actual,AUDA,2015,year,2015,,line_item,52,Taxation,5500,eThekwini,ETH,4334000
+Audited Actual,AUDA,2015,year,2015,5400 - 5500 or 5400 + 5500 depending on the sign on 5500 such that 5600 < 5400,subtotal,53,Operating Surplus / (Deficit) - After Tax,5600,eThekwini,ETH,2948738779
+Audited Actual,AUDA,2015,year,2015,,line_item,54,Cross Subsidisation,5800,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,55,Plus Interests In Entities Not Wholly Owned,6600,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,"sum(5600, 5800, 6600)",subtotal,56,"Surplus / (Deficit) After Tax, Cross Subsidies & Share Of As",5900,eThekwini,ETH,2948738779
+Audited Actual,AUDA,2015,year,2015,,heading,57,OTHER ADJUSTMENTS AND TRANSFERS,6200,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,58,Dividends Paid (Municipal Entities Only),5700,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,59,Asset Financing Reserve (Afr),6210,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,60,Housing Development Fund,6220,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,61,Depreciation Reserve Ex Afr,6230,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,62,Depreciation Reserve Ex Govt Grants,6240,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,63,Depreciation Reserve Ex Donations And Contributions,6250,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,64,Self-Insurance Reserve,6260,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,65,Revaluation Reserve,6270,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,66,Other,6280,eThekwini,ETH,0
+Audited Actual,AUDA,2015,year,2015,"sum(5900, 5700, 6210, 6220, 6230, 6240, 6250, 6260, 6270, 6280)",subtotal,67,Change To Unappropriated Surplus / (Accumulated Deficit),6700,eThekwini,ETH,2948738779
+Audited Actual,AUDA,2015,year,2015,,heading,1,OPERATING REVENUE,0100,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,2,Property Rates,0200,City of Johannesburg,JHB,7674888634
+Audited Actual,AUDA,2015,year,2015,,line_item,3,Property Rates - Penalties And Collection Charges,0300,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,4,Service Charges,0400,City of Johannesburg,JHB,21504935004
+Audited Actual,AUDA,2015,year,2015,,line_item,5,Rent Of Facilities And Equipment,0700,City of Johannesburg,JHB,229328754
+Audited Actual,AUDA,2015,year,2015,,line_item,6,Interest Earned - External Investments,0800,City of Johannesburg,JHB,382239821
+Audited Actual,AUDA,2015,year,2015,,line_item,7,Interest Earned - Outstanding Debtors,1000,City of Johannesburg,JHB,130403775
+Audited Actual,AUDA,2015,year,2015,,line_item,8,Dividends Received,1100,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,9,Fines,1300,City of Johannesburg,JHB,679399704
+Audited Actual,AUDA,2015,year,2015,,line_item,10,Licenses and Permits,1400,City of Johannesburg,JHB,1120882
+Audited Actual,AUDA,2015,year,2015,,line_item,11,Agency Services,1500,City of Johannesburg,JHB,204111336
+Audited Actual,AUDA,2015,year,2015,,line_item,12,Transfers Recognised - Operating,1600,City of Johannesburg,JHB,5987771765
+Audited Actual,AUDA,2015,year,2015,,line_item,13,Transfers Recognised - Capital,1610,City of Johannesburg,JHB,3334755856
+Audited Actual,AUDA,2015,year,2015,,line_item,14,Other Revenue,1700,City of Johannesburg,JHB,1642236346
+Audited Actual,AUDA,2015,year,2015,,line_item,15,"Gain On Disposal Of Property, Plant & Equipment",1800,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,"sum(0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1600, 1610, 1700, 1800)",subtotal,16,Total Operating Revenue Generated,1900,City of Johannesburg,JHB,41771191877
+Audited Actual,AUDA,2015,year,2015,,line_item,17,Less Revenue Foregone,2000,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,1900 - 2000 or 1900 + 2000 depending on the sign on 2000 such that 2100 < 1900,subtotal,18,Total Direct Operating Revenue,2100,City of Johannesburg,JHB,41771191877
+Audited Actual,AUDA,2015,year,2015,,heading,19,INTERNAL TRANSFERS – (must net out with corresp. items under,2200,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,20,Interest Received - Internal Loans,2300,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,21,Internal Recoveries (Activity Based Costing Etc),2500,City of Johannesburg,JHB,3817755698
+Audited Actual,AUDA,2015,year,2015,,line_item,22,Dividends Received - Internal (From Municipal Entities),2600,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,"sum(2300, 2500, 2600)",subtotal,23,Total Indirect Operating Revenue,2700,City of Johannesburg,JHB,3817755698
+Audited Actual,AUDA,2015,year,2015,"sum(2100, 2700)",subtotal,24,Total Operating Revenue,2800,City of Johannesburg,JHB,45588947575
+Audited Actual,AUDA,2015,year,2015,,heading,25,OPERATING EXPENDITURE,2900,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,26,Employee Related Costs - Wages & Salaries,3000,City of Johannesburg,JHB,8588659814
+Audited Actual,AUDA,2015,year,2015,,line_item,27,Employee Related Costs - Social Contributions,3100,City of Johannesburg,JHB,445888
+Audited Actual,AUDA,2015,year,2015,,line_item,28,Less Employee Costs Capitalised,3200,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,29,Less Employee Costs Allocated To Other Operating Items,3300,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,30,Remuneration Of Councillors,3400,City of Johannesburg,JHB,127499601
+Audited Actual,AUDA,2015,year,2015,,line_item,31,Debt Impairment,3500,City of Johannesburg,JHB,3862791498
+Audited Actual,AUDA,2015,year,2015,,line_item,32,Collection Costs,3600,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,33,Depreciation and Asset Impairment,3700,City of Johannesburg,JHB,2391017594
+Audited Actual,AUDA,2015,year,2015,,line_item,34,Interest Expense - External Borrowings,3900,City of Johannesburg,JHB,1580009492
+Audited Actual,AUDA,2015,year,2015,,line_item,35,Redemption Payments - External Borrowings (Gamap To Remove),4000,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,36,Bulk Purchases,4100,City of Johannesburg,JHB,12562745055
+Audited Actual,AUDA,2015,year,2015,,line_item,37,Other Materials,4110,City of Johannesburg,JHB,1007658000
+Audited Actual,AUDA,2015,year,2015,,line_item,38,Contracted Services,4200,City of Johannesburg,JHB,2601751449
+Audited Actual,AUDA,2015,year,2015,,line_item,39,Grants and Subsidies,4300,City of Johannesburg,JHB,577070787
+Audited Actual,AUDA,2015,year,2015,,line_item,40,Other Expenditure,4400,City of Johannesburg,JHB,4678908462
+Audited Actual,AUDA,2015,year,2015,,line_item,41,"Loss On Disposal Of Property, Plant & Equipment",4500,City of Johannesburg,JHB,23605696
+Audited Actual,AUDA,2015,year,2015,,line_item,42,Contributions To/(From) Provisions,4550,City of Johannesburg,JHB,-85799673
+Audited Actual,AUDA,2015,year,2015,"sum(3000, 3100, 3200, 3300, 3400, 3500, 3600, 3700, 3900, 4000, 4100, 4110, 4200, 4300, 4400, 4500, 4550)",subtotal,43,Total Direct Operating Expenditure,4600,City of Johannesburg,JHB,37916363663
+Audited Actual,AUDA,2015,year,2015,,heading,44,INTERNAL TRANSFERS - (must net out with corresp. items under,4700,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,45,Interest - Internal Borrowings,4800,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,46,Internal Charges (Activity Based Costing Etc),5000,City of Johannesburg,JHB,3881128782
+Audited Actual,AUDA,2015,year,2015,,line_item,47,Contributed Assets,5010,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,"sum(4800, 5000, 5010)",subtotal,48,Total Indirect Operating Expenditure,5100,City of Johannesburg,JHB,3881128782
+Audited Actual,AUDA,2015,year,2015,"sum(4600, 5100)",subtotal,49,Total Operating Expenditure,5200,City of Johannesburg,JHB,41797492445
+Audited Actual,AUDA,2015,year,2015,,heading,50,SURPLUS,5300,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,2800 - 5200 or 2800 + 5200 depending on the sign on 5200 such that 5400 < 2800,subtotal,51,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,5400,City of Johannesburg,JHB,3791455130
+Audited Actual,AUDA,2015,year,2015,,line_item,52,Taxation,5500,City of Johannesburg,JHB,238788398
+Audited Actual,AUDA,2015,year,2015,5400 - 5500 or 5400 + 5500 depending on the sign on 5500 such that 5600 < 5400,subtotal,53,Operating Surplus / (Deficit) - After Tax,5600,City of Johannesburg,JHB,3552666732
+Audited Actual,AUDA,2015,year,2015,,line_item,54,Cross Subsidisation,5800,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,55,Plus Interests In Entities Not Wholly Owned,6600,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,"sum(5600, 5800, 6600)",subtotal,56,"Surplus / (Deficit) After Tax, Cross Subsidies & Share Of As",5900,City of Johannesburg,JHB,3552666732
+Audited Actual,AUDA,2015,year,2015,,heading,57,OTHER ADJUSTMENTS AND TRANSFERS,6200,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,58,Dividends Paid (Municipal Entities Only),5700,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,59,Asset Financing Reserve (Afr),6210,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,60,Housing Development Fund,6220,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,61,Depreciation Reserve Ex Afr,6230,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,62,Depreciation Reserve Ex Govt Grants,6240,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,63,Depreciation Reserve Ex Donations And Contributions,6250,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,64,Self-Insurance Reserve,6260,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,65,Revaluation Reserve,6270,City of Johannesburg,JHB,0
+Audited Actual,AUDA,2015,year,2015,,line_item,66,Other,6280,City of Johannesburg,JHB,8436000
+Audited Actual,AUDA,2015,year,2015,"sum(5900, 5700, 6210, 6220, 6230, 6240, 6250, 6260, 6270, 6280)",subtotal,67,Change To Unappropriated Surplus / (Accumulated Deficit),6700,City of Johannesburg,JHB,3561102732
+Audited Actual,AUDA,2015,year,2015,,heading,1,OPERATING REVENUE,0100,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,2,Property Rates,0200,Mangaung,MAN,875835474
+Audited Actual,AUDA,2015,year,2015,,line_item,3,Property Rates - Penalties And Collection Charges,0300,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,4,Service Charges,0400,Mangaung,MAN,2872636271
+Audited Actual,AUDA,2015,year,2015,,line_item,5,Rent Of Facilities And Equipment,0700,Mangaung,MAN,28370603
+Audited Actual,AUDA,2015,year,2015,,line_item,6,Interest Earned - External Investments,0800,Mangaung,MAN,56445303
+Audited Actual,AUDA,2015,year,2015,,line_item,7,Interest Earned - Outstanding Debtors,1000,Mangaung,MAN,180628337
+Audited Actual,AUDA,2015,year,2015,,line_item,8,Dividends Received,1100,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,9,Fines,1300,Mangaung,MAN,77671023
+Audited Actual,AUDA,2015,year,2015,,line_item,10,Licenses and Permits,1400,Mangaung,MAN,170678
+Audited Actual,AUDA,2015,year,2015,,line_item,11,Agency Services,1500,Mangaung,MAN,4750908
+Audited Actual,AUDA,2015,year,2015,,line_item,12,Transfers Recognised - Operating,1600,Mangaung,MAN,918357938
+Audited Actual,AUDA,2015,year,2015,,line_item,13,Transfers Recognised - Capital,1610,Mangaung,MAN,689954839
+Audited Actual,AUDA,2015,year,2015,,line_item,14,Other Revenue,1700,Mangaung,MAN,85299461
+Audited Actual,AUDA,2015,year,2015,,line_item,15,"Gain On Disposal Of Property, Plant & Equipment",1800,Mangaung,MAN,1257030
+Audited Actual,AUDA,2015,year,2015,"sum(0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1600, 1610, 1700, 1800)",subtotal,16,Total Operating Revenue Generated,1900,Mangaung,MAN,5791377865
+Audited Actual,AUDA,2015,year,2015,,line_item,17,Less Revenue Foregone,2000,Mangaung,MAN,243441946
+Audited Actual,AUDA,2015,year,2015,1900 - 2000 or 1900 + 2000 depending on the sign on 2000 such that 2100 < 1900,subtotal,18,Total Direct Operating Revenue,2100,Mangaung,MAN,5547935919
+Audited Actual,AUDA,2015,year,2015,,heading,19,INTERNAL TRANSFERS – (must net out with corresp. items under,2200,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,20,Interest Received - Internal Loans,2300,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,21,Internal Recoveries (Activity Based Costing Etc),2500,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,22,Dividends Received - Internal (From Municipal Entities),2600,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,"sum(2300, 2500, 2600)",subtotal,23,Total Indirect Operating Revenue,2700,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,"sum(2100, 2700)",subtotal,24,Total Operating Revenue,2800,Mangaung,MAN,5547935919
+Audited Actual,AUDA,2015,year,2015,,heading,25,OPERATING EXPENDITURE,2900,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,26,Employee Related Costs - Wages & Salaries,3000,Mangaung,MAN,1093638606
+Audited Actual,AUDA,2015,year,2015,,line_item,27,Employee Related Costs - Social Contributions,3100,Mangaung,MAN,167756709
+Audited Actual,AUDA,2015,year,2015,,line_item,28,Less Employee Costs Capitalised,3200,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,29,Less Employee Costs Allocated To Other Operating Items,3300,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,30,Remuneration Of Councillors,3400,Mangaung,MAN,49594283
+Audited Actual,AUDA,2015,year,2015,,line_item,31,Debt Impairment,3500,Mangaung,MAN,607335202
+Audited Actual,AUDA,2015,year,2015,,line_item,32,Collection Costs,3600,Mangaung,MAN,49846093
+Audited Actual,AUDA,2015,year,2015,,line_item,33,Depreciation and Asset Impairment,3700,Mangaung,MAN,659875611
+Audited Actual,AUDA,2015,year,2015,,line_item,34,Interest Expense - External Borrowings,3900,Mangaung,MAN,96812968
+Audited Actual,AUDA,2015,year,2015,,line_item,35,Redemption Payments - External Borrowings (Gamap To Remove),4000,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,36,Bulk Purchases,4100,Mangaung,MAN,1614567988
+Audited Actual,AUDA,2015,year,2015,,line_item,37,Other Materials,4110,Mangaung,MAN,335486676
+Audited Actual,AUDA,2015,year,2015,,line_item,38,Contracted Services,4200,Mangaung,MAN,279968124
+Audited Actual,AUDA,2015,year,2015,,line_item,39,Grants and Subsidies,4300,Mangaung,MAN,10679376
+Audited Actual,AUDA,2015,year,2015,,line_item,40,Other Expenditure,4400,Mangaung,MAN,494106166
+Audited Actual,AUDA,2015,year,2015,,line_item,41,"Loss On Disposal Of Property, Plant & Equipment",4500,Mangaung,MAN,18990688
+Audited Actual,AUDA,2015,year,2015,,line_item,42,Contributions To/(From) Provisions,4550,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,"sum(3000, 3100, 3200, 3300, 3400, 3500, 3600, 3700, 3900, 4000, 4100, 4110, 4200, 4300, 4400, 4500, 4550)",subtotal,43,Total Direct Operating Expenditure,4600,Mangaung,MAN,5478658490
+Audited Actual,AUDA,2015,year,2015,,heading,44,INTERNAL TRANSFERS - (must net out with corresp. items under,4700,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,45,Interest - Internal Borrowings,4800,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,46,Internal Charges (Activity Based Costing Etc),5000,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,47,Contributed Assets,5010,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,"sum(4800, 5000, 5010)",subtotal,48,Total Indirect Operating Expenditure,5100,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,"sum(4600, 5100)",subtotal,49,Total Operating Expenditure,5200,Mangaung,MAN,5478658490
+Audited Actual,AUDA,2015,year,2015,,heading,50,SURPLUS,5300,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,2800 - 5200 or 2800 + 5200 depending on the sign on 5200 such that 5400 < 2800,subtotal,51,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,5400,Mangaung,MAN,69277429
+Audited Actual,AUDA,2015,year,2015,,line_item,52,Taxation,5500,Mangaung,MAN,-83243365
+Audited Actual,AUDA,2015,year,2015,5400 - 5500 or 5400 + 5500 depending on the sign on 5500 such that 5600 < 5400,subtotal,53,Operating Surplus / (Deficit) - After Tax,5600,Mangaung,MAN,152520794
+Audited Actual,AUDA,2015,year,2015,,line_item,54,Cross Subsidisation,5800,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,55,Plus Interests In Entities Not Wholly Owned,6600,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,"sum(5600, 5800, 6600)",subtotal,56,"Surplus / (Deficit) After Tax, Cross Subsidies & Share Of As",5900,Mangaung,MAN,152520794
+Audited Actual,AUDA,2015,year,2015,,heading,57,OTHER ADJUSTMENTS AND TRANSFERS,6200,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,58,Dividends Paid (Municipal Entities Only),5700,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,59,Asset Financing Reserve (Afr),6210,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,60,Housing Development Fund,6220,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,61,Depreciation Reserve Ex Afr,6230,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,62,Depreciation Reserve Ex Govt Grants,6240,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,63,Depreciation Reserve Ex Donations And Contributions,6250,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,64,Self-Insurance Reserve,6260,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,65,Revaluation Reserve,6270,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,,line_item,66,Other,6280,Mangaung,MAN,0
+Audited Actual,AUDA,2015,year,2015,"sum(5900, 5700, 6210, 6220, 6230, 6240, 6250, 6260, 6270, 6280)",subtotal,67,Change To Unappropriated Surplus / (Accumulated Deficit),6700,Mangaung,MAN,152520794
+Audited Actual,AUDA,2015,year,2015,,heading,1,OPERATING REVENUE,0100,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,2,Property Rates,0200,Nelson Mandela Bay,NMA,1332134909
+Audited Actual,AUDA,2015,year,2015,,line_item,3,Property Rates - Penalties And Collection Charges,0300,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,4,Service Charges,0400,Nelson Mandela Bay,NMA,4059465577
+Audited Actual,AUDA,2015,year,2015,,line_item,5,Rent Of Facilities And Equipment,0700,Nelson Mandela Bay,NMA,18378235
+Audited Actual,AUDA,2015,year,2015,,line_item,6,Interest Earned - External Investments,0800,Nelson Mandela Bay,NMA,83294367
+Audited Actual,AUDA,2015,year,2015,,line_item,7,Interest Earned - Outstanding Debtors,1000,Nelson Mandela Bay,NMA,151069972
+Audited Actual,AUDA,2015,year,2015,,line_item,8,Dividends Received,1100,Nelson Mandela Bay,NMA,290665
+Audited Actual,AUDA,2015,year,2015,,line_item,9,Fines,1300,Nelson Mandela Bay,NMA,40884562
+Audited Actual,AUDA,2015,year,2015,,line_item,10,Licenses and Permits,1400,Nelson Mandela Bay,NMA,9695407
+Audited Actual,AUDA,2015,year,2015,,line_item,11,Agency Services,1500,Nelson Mandela Bay,NMA,2246476
+Audited Actual,AUDA,2015,year,2015,,line_item,12,Transfers Recognised - Operating,1600,Nelson Mandela Bay,NMA,1486059536
+Audited Actual,AUDA,2015,year,2015,,line_item,13,Transfers Recognised - Capital,1610,Nelson Mandela Bay,NMA,784204088
+Audited Actual,AUDA,2015,year,2015,,line_item,14,Other Revenue,1700,Nelson Mandela Bay,NMA,953300705
+Audited Actual,AUDA,2015,year,2015,,line_item,15,"Gain On Disposal Of Property, Plant & Equipment",1800,Nelson Mandela Bay,NMA,829981
+Audited Actual,AUDA,2015,year,2015,"sum(0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1600, 1610, 1700, 1800)",subtotal,16,Total Operating Revenue Generated,1900,Nelson Mandela Bay,NMA,8921854480
+Audited Actual,AUDA,2015,year,2015,,line_item,17,Less Revenue Foregone,2000,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,1900 - 2000 or 1900 + 2000 depending on the sign on 2000 such that 2100 < 1900,subtotal,18,Total Direct Operating Revenue,2100,Nelson Mandela Bay,NMA,8921854480
+Audited Actual,AUDA,2015,year,2015,,heading,19,INTERNAL TRANSFERS – (must net out with corresp. items under,2200,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,20,Interest Received - Internal Loans,2300,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,21,Internal Recoveries (Activity Based Costing Etc),2500,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,22,Dividends Received - Internal (From Municipal Entities),2600,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,"sum(2300, 2500, 2600)",subtotal,23,Total Indirect Operating Revenue,2700,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,"sum(2100, 2700)",subtotal,24,Total Operating Revenue,2800,Nelson Mandela Bay,NMA,8921854480
+Audited Actual,AUDA,2015,year,2015,,heading,25,OPERATING EXPENDITURE,2900,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,26,Employee Related Costs - Wages & Salaries,3000,Nelson Mandela Bay,NMA,2163726714
+Audited Actual,AUDA,2015,year,2015,,line_item,27,Employee Related Costs - Social Contributions,3100,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,28,Less Employee Costs Capitalised,3200,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,29,Less Employee Costs Allocated To Other Operating Items,3300,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,30,Remuneration Of Councillors,3400,Nelson Mandela Bay,NMA,58161095
+Audited Actual,AUDA,2015,year,2015,,line_item,31,Debt Impairment,3500,Nelson Mandela Bay,NMA,407409770
+Audited Actual,AUDA,2015,year,2015,,line_item,32,Collection Costs,3600,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,33,Depreciation and Asset Impairment,3700,Nelson Mandela Bay,NMA,901879001
+Audited Actual,AUDA,2015,year,2015,,line_item,34,Interest Expense - External Borrowings,3900,Nelson Mandela Bay,NMA,180098335
+Audited Actual,AUDA,2015,year,2015,,line_item,35,Redemption Payments - External Borrowings (Gamap To Remove),4000,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,36,Bulk Purchases,4100,Nelson Mandela Bay,NMA,2455085768
+Audited Actual,AUDA,2015,year,2015,,line_item,37,Other Materials,4110,Nelson Mandela Bay,NMA,559522910
+Audited Actual,AUDA,2015,year,2015,,line_item,38,Contracted Services,4200,Nelson Mandela Bay,NMA,349464756
+Audited Actual,AUDA,2015,year,2015,,line_item,39,Grants and Subsidies,4300,Nelson Mandela Bay,NMA,25691323
+Audited Actual,AUDA,2015,year,2015,,line_item,40,Other Expenditure,4400,Nelson Mandela Bay,NMA,1115406638
+Audited Actual,AUDA,2015,year,2015,,line_item,41,"Loss On Disposal Of Property, Plant & Equipment",4500,Nelson Mandela Bay,NMA,512929
+Audited Actual,AUDA,2015,year,2015,,line_item,42,Contributions To/(From) Provisions,4550,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,"sum(3000, 3100, 3200, 3300, 3400, 3500, 3600, 3700, 3900, 4000, 4100, 4110, 4200, 4300, 4400, 4500, 4550)",subtotal,43,Total Direct Operating Expenditure,4600,Nelson Mandela Bay,NMA,8216959239
+Audited Actual,AUDA,2015,year,2015,,heading,44,INTERNAL TRANSFERS - (must net out with corresp. items under,4700,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,45,Interest - Internal Borrowings,4800,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,46,Internal Charges (Activity Based Costing Etc),5000,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,47,Contributed Assets,5010,Nelson Mandela Bay,NMA,56854013
+Audited Actual,AUDA,2015,year,2015,"sum(4800, 5000, 5010)",subtotal,48,Total Indirect Operating Expenditure,5100,Nelson Mandela Bay,NMA,56854013
+Audited Actual,AUDA,2015,year,2015,"sum(4600, 5100)",subtotal,49,Total Operating Expenditure,5200,Nelson Mandela Bay,NMA,8273813252
+Audited Actual,AUDA,2015,year,2015,,heading,50,SURPLUS,5300,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,2800 - 5200 or 2800 + 5200 depending on the sign on 5200 such that 5400 < 2800,subtotal,51,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,5400,Nelson Mandela Bay,NMA,648041228
+Audited Actual,AUDA,2015,year,2015,,line_item,52,Taxation,5500,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,5400 - 5500 or 5400 + 5500 depending on the sign on 5500 such that 5600 < 5400,subtotal,53,Operating Surplus / (Deficit) - After Tax,5600,Nelson Mandela Bay,NMA,648041228
+Audited Actual,AUDA,2015,year,2015,,line_item,54,Cross Subsidisation,5800,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,55,Plus Interests In Entities Not Wholly Owned,6600,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,"sum(5600, 5800, 6600)",subtotal,56,"Surplus / (Deficit) After Tax, Cross Subsidies & Share Of As",5900,Nelson Mandela Bay,NMA,648041228
+Audited Actual,AUDA,2015,year,2015,,heading,57,OTHER ADJUSTMENTS AND TRANSFERS,6200,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,58,Dividends Paid (Municipal Entities Only),5700,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,59,Asset Financing Reserve (Afr),6210,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,60,Housing Development Fund,6220,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,61,Depreciation Reserve Ex Afr,6230,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,62,Depreciation Reserve Ex Govt Grants,6240,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,63,Depreciation Reserve Ex Donations And Contributions,6250,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,64,Self-Insurance Reserve,6260,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,65,Revaluation Reserve,6270,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,,line_item,66,Other,6280,Nelson Mandela Bay,NMA,0
+Audited Actual,AUDA,2015,year,2015,"sum(5900, 5700, 6210, 6220, 6230, 6240, 6250, 6260, 6270, 6280)",subtotal,67,Change To Unappropriated Surplus / (Accumulated Deficit),6700,Nelson Mandela Bay,NMA,648041228
+Audited Actual,AUDA,2015,year,2015,,heading,1,OPERATING REVENUE,0100,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,2,Property Rates,0200,City of Tshwane,TSH,4866348173
+Audited Actual,AUDA,2015,year,2015,,line_item,3,Property Rates - Penalties And Collection Charges,0300,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,4,Service Charges,0400,City of Tshwane,TSH,13347680584
+Audited Actual,AUDA,2015,year,2015,,line_item,5,Rent Of Facilities And Equipment,0700,City of Tshwane,TSH,116170342
+Audited Actual,AUDA,2015,year,2015,,line_item,6,Interest Earned - External Investments,0800,City of Tshwane,TSH,38167359
+Audited Actual,AUDA,2015,year,2015,,line_item,7,Interest Earned - Outstanding Debtors,1000,City of Tshwane,TSH,374611901
+Audited Actual,AUDA,2015,year,2015,,line_item,8,Dividends Received,1100,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,9,Fines,1300,City of Tshwane,TSH,177338263
+Audited Actual,AUDA,2015,year,2015,,line_item,10,Licenses and Permits,1400,City of Tshwane,TSH,53243504
+Audited Actual,AUDA,2015,year,2015,,line_item,11,Agency Services,1500,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,12,Transfers Recognised - Operating,1600,City of Tshwane,TSH,3081484935
+Audited Actual,AUDA,2015,year,2015,,line_item,13,Transfers Recognised - Capital,1610,City of Tshwane,TSH,2516428346
+Audited Actual,AUDA,2015,year,2015,,line_item,14,Other Revenue,1700,City of Tshwane,TSH,1058064112
+Audited Actual,AUDA,2015,year,2015,,line_item,15,"Gain On Disposal Of Property, Plant & Equipment",1800,City of Tshwane,TSH,20440816
+Audited Actual,AUDA,2015,year,2015,"sum(0200, 0300, 0400, 0700, 0800, 1000, 1100, 1300, 1400, 1500, 1600, 1610, 1700, 1800)",subtotal,16,Total Operating Revenue Generated,1900,City of Tshwane,TSH,25649978335
+Audited Actual,AUDA,2015,year,2015,,line_item,17,Less Revenue Foregone,2000,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,1900 - 2000 or 1900 + 2000 depending on the sign on 2000 such that 2100 < 1900,subtotal,18,Total Direct Operating Revenue,2100,City of Tshwane,TSH,25649978335
+Audited Actual,AUDA,2015,year,2015,,heading,19,INTERNAL TRANSFERS – (must net out with corresp. items under,2200,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,20,Interest Received - Internal Loans,2300,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,21,Internal Recoveries (Activity Based Costing Etc),2500,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,22,Dividends Received - Internal (From Municipal Entities),2600,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,"sum(2300, 2500, 2600)",subtotal,23,Total Indirect Operating Revenue,2700,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,"sum(2100, 2700)",subtotal,24,Total Operating Revenue,2800,City of Tshwane,TSH,25649978335
+Audited Actual,AUDA,2015,year,2015,,heading,25,OPERATING EXPENDITURE,2900,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,26,Employee Related Costs - Wages & Salaries,3000,City of Tshwane,TSH,6553006094
+Audited Actual,AUDA,2015,year,2015,,line_item,27,Employee Related Costs - Social Contributions,3100,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,28,Less Employee Costs Capitalised,3200,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,29,Less Employee Costs Allocated To Other Operating Items,3300,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,30,Remuneration Of Councillors,3400,City of Tshwane,TSH,104192823
+Audited Actual,AUDA,2015,year,2015,,line_item,31,Debt Impairment,3500,City of Tshwane,TSH,850661937
+Audited Actual,AUDA,2015,year,2015,,line_item,32,Collection Costs,3600,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,33,Depreciation and Asset Impairment,3700,City of Tshwane,TSH,1507836554
+Audited Actual,AUDA,2015,year,2015,,line_item,34,Interest Expense - External Borrowings,3900,City of Tshwane,TSH,997466529
+Audited Actual,AUDA,2015,year,2015,,line_item,35,Redemption Payments - External Borrowings (Gamap To Remove),4000,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,36,Bulk Purchases,4100,City of Tshwane,TSH,7827495892
+Audited Actual,AUDA,2015,year,2015,,line_item,37,Other Materials,4110,City of Tshwane,TSH,268664105
+Audited Actual,AUDA,2015,year,2015,,line_item,38,Contracted Services,4200,City of Tshwane,TSH,3066236157
+Audited Actual,AUDA,2015,year,2015,,line_item,39,Grants and Subsidies,4300,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,40,Other Expenditure,4400,City of Tshwane,TSH,3517703640
+Audited Actual,AUDA,2015,year,2015,,line_item,41,"Loss On Disposal Of Property, Plant & Equipment",4500,City of Tshwane,TSH,190583251
+Audited Actual,AUDA,2015,year,2015,,line_item,42,Contributions To/(From) Provisions,4550,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,"sum(3000, 3100, 3200, 3300, 3400, 3500, 3600, 3700, 3900, 4000, 4100, 4110, 4200, 4300, 4400, 4500, 4550)",subtotal,43,Total Direct Operating Expenditure,4600,City of Tshwane,TSH,24883846982
+Audited Actual,AUDA,2015,year,2015,,heading,44,INTERNAL TRANSFERS - (must net out with corresp. items under,4700,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,45,Interest - Internal Borrowings,4800,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,46,Internal Charges (Activity Based Costing Etc),5000,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,47,Contributed Assets,5010,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,"sum(4800, 5000, 5010)",subtotal,48,Total Indirect Operating Expenditure,5100,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,"sum(4600, 5100)",subtotal,49,Total Operating Expenditure,5200,City of Tshwane,TSH,24883846982
+Audited Actual,AUDA,2015,year,2015,,heading,50,SURPLUS,5300,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,2800 - 5200 or 2800 + 5200 depending on the sign on 5200 such that 5400 < 2800,subtotal,51,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,5400,City of Tshwane,TSH,766131353
+Audited Actual,AUDA,2015,year,2015,,line_item,52,Taxation,5500,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,5400 - 5500 or 5400 + 5500 depending on the sign on 5500 such that 5600 < 5400,subtotal,53,Operating Surplus / (Deficit) - After Tax,5600,City of Tshwane,TSH,766131353
+Audited Actual,AUDA,2015,year,2015,,line_item,54,Cross Subsidisation,5800,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,55,Plus Interests In Entities Not Wholly Owned,6600,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,"sum(5600, 5800, 6600)",subtotal,56,"Surplus / (Deficit) After Tax, Cross Subsidies & Share Of As",5900,City of Tshwane,TSH,766131353
+Audited Actual,AUDA,2015,year,2015,,heading,57,OTHER ADJUSTMENTS AND TRANSFERS,6200,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,58,Dividends Paid (Municipal Entities Only),5700,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,59,Asset Financing Reserve (Afr),6210,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,60,Housing Development Fund,6220,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,61,Depreciation Reserve Ex Afr,6230,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,62,Depreciation Reserve Ex Govt Grants,6240,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,63,Depreciation Reserve Ex Donations And Contributions,6250,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,64,Self-Insurance Reserve,6260,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,65,Revaluation Reserve,6270,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,,line_item,66,Other,6280,City of Tshwane,TSH,0
+Audited Actual,AUDA,2015,year,2015,"sum(5900, 5700, 6210, 6220, 6230, 6240, 6250, 6260, 6270, 6280)",subtotal,67,Change To Unappropriated Surplus / (Accumulated Deficit),6700,City of Tshwane,TSH,766131353
